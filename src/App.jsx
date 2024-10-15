@@ -1,7 +1,6 @@
 import './App.css';
 import TopNavbar from './TopNavbar.jsx';
-import nail_polish_bottle from "./assets/pexels-nail-polish-bottle.jpg";
-import { Outlet, Link } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 import SocialMediaSidebar from "./SocialMediaSidebar.jsx";
 function App() {
 

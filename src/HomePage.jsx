@@ -1,8 +1,6 @@
-import nail_polish_bottle from "./assets/pexels-nail-polish-bottle.jpg";
 import person from "./assets/pexels-homepage-person.jpg";
 import about from './assets/about.txt';
 import Inksplash_part3_1 from "./assets/ink-42357.svg?react";
-import Nail_polish_cabinet from './assets/henry-co-OpjlRo-31SI-unsplash.jpg';
 import diagonal_lines from './assets/vecteezy_abstract-geometric-black-diagonal-stripe-line-pattern-design_21798571.jpg'
 import {Link} from "react-router-dom";
 import { useState } from 'react';

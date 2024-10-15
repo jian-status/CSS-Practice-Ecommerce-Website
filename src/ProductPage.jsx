@@ -1,4 +1,3 @@
-import { useState } from "react";
 import {useLoaderData, useParams} from "react-router-dom";
 
 export default function ProductPage() {
